@@ -39,6 +39,10 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ![Nardoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nardoz-dev&show_icons=true&theme=radical)
 
+## 🏆 Trofei GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nardoz-dev&theme=radical&column=9&margin-w=5&margin-h=5" alt="Trofei di GitHub di Nardoz" />
+</div>
 
 ## 🌐 Let's Connect
 
