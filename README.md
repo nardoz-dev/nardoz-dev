@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 - 📫 How to reach me: [nardomen96@gmail.com](mailto:nardomen96@gmail.com)
 - ⚡ I love Unreal Engine and the world behind it.
 
-## Languages and Tools
+## 🛠️ Languages, Tools & Framework
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,12 +35,12 @@ I'm a passionate software developer with a love for creating innovative and effi
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Nardoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nardoz-dev&show_icons=true&theme=radical)
 
 
-## Let's Connect
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nardoz-dev/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nardoz-dev)
